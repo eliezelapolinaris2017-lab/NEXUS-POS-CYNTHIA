@@ -24,7 +24,7 @@ const db = firebase.firestore();
 
 // ===== Config negocio/links =====
 const CONFIG = {
-  brand: { business: "Cynthia's Salon / Nexus POS Express", phone: "7875903188", location: "Trujillo Alto" },
+  brand: { business: "Cynthia's Salon", phone: "7875903188", location: "Trujillo Alto" },
   links: {
     ath: "",
     stripe: "https://buy.stripe.com/aFa6oA6W9b965fs7oU2cg00",
