@@ -24,10 +24,10 @@ const db = firebase.firestore();
 
 // ===== Config negocio/links =====
 const CONFIG = {
-  brand: { business: "Oasis Services P.R. / Nexus POS Express", phone: "787-664-3079", location: "Trujillo Alto" },
+  brand: { business: "Cynthia's Salon / Nexus POS Express", phone: "7875903188", location: "Trujillo Alto" },
   links: {
-    ath: "https://pagos.athmovilapp.com/pagoPorCodigo.html?id=8fbf89be-ac6a-4a00-b4d8-a7020c474660",
-    stripe: "https://buy.stripe.com/5kQ9AS8nQ2mA6w6aFV1RC0h",
+    ath: "",
+    stripe: "https://buy.stripe.com/aFa6oA6W9b965fs7oU2cg00",
     tapToPay: "" // si luego quieres un link real, lo pones aquí
   },
   icons: {
